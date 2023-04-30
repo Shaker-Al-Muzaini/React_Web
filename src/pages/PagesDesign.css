@@ -1,0 +1,26 @@
+.topFixedPage{
+     background-image: url("../asset/image/page.jpg");
+     min-height: 250px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.topPageOverlay{
+     position: absolute;
+     min-height: 250px;
+     width: 100%;
+     background: rgba(19, 1, 102, 0.7);
+}
+
+.topPageTitle{
+     font-family: 'Montserrat',sans-serif;
+     font-weight: 700;
+     color: #ffee00;
+     font-size: 40px;
+}
+
+.topContentPage{
+     margin-top: 8em;
+}

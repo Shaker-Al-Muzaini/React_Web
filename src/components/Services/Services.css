@@ -1,0 +1,63 @@
+.ServicesIcon{
+
+   height: 100px;  
+   width: 100px;
+
+
+
+}
+
+.serviceCard{
+
+     box-shadow: 1px 1px 8px 0 gray;
+     padding: 60px 30px  60px 30px;
+     margin: 6px 6px 6px 6px;
+     height: 22rem;
+
+
+}
+
+.serviceCard:hover{
+
+     box-shadow: 1px 2px 16px 0 rgb(224, 80, 80);
+     padding: 60px 30px  60px 30px;
+     margin: 6px 6px 6px 6px;
+     height: 22rem;
+
+}
+
+.serviceName{
+     color: #051b35;
+     margin-top: 1rem;
+     font-family: 'Raleway',sans-serif;
+     font-size: 24px;
+     font-weight: 700;
+}
+.serviceDescription{
+     color: #505050;
+     margin-top: 1rem;
+     font-family: 'Raleway',sans-serif;
+     font-size: 15px;
+     font-weight: 400;
+
+}
+
+.bottom{
+     background: #051b35 none repeat scroll 0 0;
+     height: 5px;
+     width: 125px;
+     margin: -1.9rem auto 0;
+     margin-bottom: 2rem;
+}
+
+
+
+
+.serviceMainTitle{
+     color: #051b35;
+     margin-top: 5rem;
+     margin-bottom: 3rem;
+     font-family: 'Montserrat',sans-serif;
+     font-weight: 700;
+     font-size: 28px;
+}

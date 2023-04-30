@@ -1,0 +1,30 @@
+.box_feature{
+     border: 1px solid #2367af;
+
+}
+
+.box_feature ul{
+     padding: 0 25px 20px;
+
+}
+
+.box_feature ul li{
+     color: #051b35;
+     font-size: 16px;
+     margin-bottom: 9px;
+     list-style: none;
+    
+
+}
+.box_feature ul li span {
+     font-family: 'Montserrat',sans-serif;
+     font-weight: 700;
+     color: #051b35;
+     margin-right: 5px;
+ }
+
+ .box_feature .price-d {
+     background-color: #ecb3de;
+     padding: 34px 23px 40px;
+     text-align: center;
+ }
